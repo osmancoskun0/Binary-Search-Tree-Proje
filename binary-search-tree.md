@@ -1,0 +1,1 @@
+![binary-search-tree](/img/binary-search-tree.png "binary search tree")
